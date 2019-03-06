@@ -1,0 +1,22 @@
+body {
+    background-color: #3F2C32;
+    background-color: #E6FFE9;
+    }
+img.icon {
+    width: 70px;
+}
+img.programming_language{
+    width: 30px;
+    height: 25px;
+    vertical-align:top;
+}
+img.banner {
+    width: 450px;
+    height: 100px;
+}
+li {
+    text-indent:1em;
+    }
+a {
+    margin-left:1em;
+  }
