@@ -1,7 +1,16 @@
 body {
-    background-color: #3F2C32;
-    background-color: #E6FFE9;
-    }
+    text-align: center;
+}
+
+div {
+    text-align: left;
+}
+
+img.flame{
+    width: 30%;
+    height: 10%;
+}
+
 img.icon {
     width: 70px;
 }
@@ -20,3 +29,24 @@ li {
 a {
     margin-left:1em;
   }
+
+header {
+    background-color: rgb(10,10,10);
+    height: 70px;
+    width: 100%;
+    color: rgb(255,255,255);
+}
+
+header p{
+    text-align: center;
+}
+footer {
+    background-color: rgb(10,10,10);
+    height: 70px;
+    width: 100%;
+    color: rgb(255,255,255);
+}
+
+footer p{
+    text-align: center;
+}
