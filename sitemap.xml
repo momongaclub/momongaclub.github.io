@@ -3,43 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://momongaclub.github.io/categories/</loc>
-    <lastmod>2020-07-05T10:03:42+09:00</lastmod>
+    <loc>https://momongaclub.github.io/about/</loc>
+    <lastmod>2020-07-05T10:20:12+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://momongaclub.github.io/categories/category1/</loc>
-    <lastmod>2020-07-05T10:03:42+09:00</lastmod>
+    <loc>https://momongaclub.github.io/about/me/</loc>
+    <lastmod>2020-07-05T10:20:12+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://momongaclub.github.io/</loc>
-    <lastmod>2020-07-05T10:03:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://momongaclub.github.io/posts/</loc>
-    <lastmod>2020-07-05T10:03:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://momongaclub.github.io/tags/tag1/</loc>
-    <lastmod>2020-07-05T10:03:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://momongaclub.github.io/tags/tag2/</loc>
-    <lastmod>2020-07-05T10:03:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://momongaclub.github.io/tags/</loc>
-    <lastmod>2020-07-05T10:03:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://momongaclub.github.io/posts/test/</loc>
-    <lastmod>2020-07-05T10:03:42+09:00</lastmod>
+    <lastmod>2020-07-05T10:20:12+09:00</lastmod>
   </url>
   
   <url>
@@ -53,12 +28,27 @@
   </url>
   
   <url>
+    <loc>https://momongaclub.github.io/categories/</loc>
+    <lastmod>2020-06-06T22:52:28+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://momongaclub.github.io/tags/portfolio/</loc>
     <lastmod>2020-06-06T22:52:28+09:00</lastmod>
   </url>
   
   <url>
+    <loc>https://momongaclub.github.io/posts/</loc>
+    <lastmod>2020-06-06T22:52:28+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://momongaclub.github.io/tags/programming/</loc>
+    <lastmod>2020-06-06T22:52:28+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://momongaclub.github.io/tags/</loc>
     <lastmod>2020-06-06T22:52:28+09:00</lastmod>
   </url>
   
@@ -70,6 +60,11 @@
   <url>
     <loc>https://momongaclub.github.io/posts/tefutefu/</loc>
     <lastmod>2020-06-06T22:28:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://momongaclub.github.io/categories/category1/</loc>
+    <lastmod>2020-06-06T22:52:26+09:00</lastmod>
   </url>
   
   <url>
