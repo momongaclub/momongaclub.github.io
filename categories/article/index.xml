@@ -6,10 +6,28 @@
     <description>Recent content in article on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 10 Jun 2020 22:28:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 22:28:27 +0900</lastBuildDate>
     
 	<atom:link href="https://momongaclub.github.io/categories/article/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>研究テーマ：ディープでトップなラップロボットのデベロップ</title>
+      <link>https://momongaclub.github.io/posts/tefutefu/</link>
+      <pubDate>Wed, 01 Jul 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/tefutefu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rhyme_marker</title>
+      <link>https://momongaclub.github.io/posts/rhyme_maker/</link>
+      <pubDate>Wed, 10 Jun 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/rhyme_maker/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>作品：block_businnes_account</title>
@@ -21,16 +39,7 @@
     </item>
     
     <item>
-      <title>研究テーマ：ディープでトップなラップロボットのデベロップ</title>
-      <link>https://momongaclub.github.io/posts/tefutefu/</link>
-      <pubDate>Wed, 10 Jun 2020 22:28:27 +0900</pubDate>
-      
-      <guid>https://momongaclub.github.io/posts/tefutefu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>第39回こうべユース賞</title>
+      <title>第39回こうべユース賞 文化部門受賞</title>
       <link>https://momongaclub.github.io/posts/kobe-us/</link>
       <pubDate>Sat, 06 Jun 2020 22:28:27 +0900</pubDate>
       
@@ -44,6 +53,24 @@
       <pubDate>Wed, 06 Mar 2019 22:52:28 +0900</pubDate>
       
       <guid>https://momongaclub.github.io/posts/samuraicoding_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JST さきがけ補助研究員</title>
+      <link>https://momongaclub.github.io/posts/sakigake/</link>
+      <pubDate>Wed, 10 Oct 2018 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/sakigake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文部化科学省情報技術人材教育プロジェクト enpit AiBiCSpiral 修了</title>
+      <link>https://momongaclub.github.io/posts/enpit/</link>
+      <pubDate>Wed, 10 Oct 2018 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/enpit/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,28 @@
     <description>Recent content in all on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 10 Jun 2020 22:28:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 22:28:27 +0900</lastBuildDate>
     
 	<atom:link href="https://momongaclub.github.io/tags/all/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>研究テーマ：ディープでトップなラップロボットのデベロップ</title>
+      <link>https://momongaclub.github.io/posts/tefutefu/</link>
+      <pubDate>Wed, 01 Jul 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/tefutefu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rhyme_marker</title>
+      <link>https://momongaclub.github.io/posts/rhyme_maker/</link>
+      <pubDate>Wed, 10 Jun 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/rhyme_maker/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>作品：block_businnes_account</title>
@@ -17,15 +35,6 @@
       <pubDate>Wed, 10 Jun 2020 22:28:27 +0900</pubDate>
       
       <guid>https://momongaclub.github.io/posts/bba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>研究テーマ：ディープでトップなラップロボットのデベロップ</title>
-      <link>https://momongaclub.github.io/posts/tefutefu/</link>
-      <pubDate>Wed, 10 Jun 2020 22:28:27 +0900</pubDate>
-      
-      <guid>https://momongaclub.github.io/posts/tefutefu/</guid>
       <description></description>
     </item>
     
@@ -39,7 +48,7 @@
     </item>
     
     <item>
-      <title>第39回こうべユース賞</title>
+      <title>第39回こうべユース賞 文化部門受賞</title>
       <link>https://momongaclub.github.io/posts/kobe-us/</link>
       <pubDate>Sat, 06 Jun 2020 22:28:27 +0900</pubDate>
       
@@ -57,24 +66,6 @@
     </item>
     
     <item>
-      <title>Yanl_2018 ポスター発表</title>
-      <link>https://momongaclub.github.io/posts/yanl_2018/</link>
-      <pubDate>Sat, 06 Jun 2020 22:20:19 +0900</pubDate>
-      
-      <guid>https://momongaclub.github.io/posts/yanl_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yans_2018 ポスター発表</title>
-      <link>https://momongaclub.github.io/posts/yans_2018/</link>
-      <pubDate>Sat, 06 Jun 2020 22:20:08 +0900</pubDate>
-      
-      <guid>https://momongaclub.github.io/posts/yans_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Samuraicoding_2019 個人優勝</title>
       <link>https://momongaclub.github.io/posts/samuraicoding_2019/</link>
       <pubDate>Wed, 06 Mar 2019 22:52:28 +0900</pubDate>
@@ -84,12 +75,48 @@
     </item>
     
     <item>
+      <title>Yanl_2018 ポスター発表</title>
+      <link>https://momongaclub.github.io/posts/yanl_2018/</link>
+      <pubDate>Tue, 06 Nov 2018 22:20:19 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/yanl_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Samuraicoding_2017 本戦第3位</title>
       <link>https://momongaclub.github.io/posts/samuraicoding_2017/</link>
-      <pubDate>Tue, 06 Mar 2018 22:52:26 +0900</pubDate>
+      <pubDate>Thu, 11 Oct 2018 22:28:27 +0900</pubDate>
       
       <guid>https://momongaclub.github.io/posts/samuraicoding_2017/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>JST さきがけ補助研究員</title>
+      <link>https://momongaclub.github.io/posts/sakigake/</link>
+      <pubDate>Wed, 10 Oct 2018 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/sakigake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文部化科学省情報技術人材教育プロジェクト enpit AiBiCSpiral 修了</title>
+      <link>https://momongaclub.github.io/posts/enpit/</link>
+      <pubDate>Wed, 10 Oct 2018 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/enpit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yans_2018 ポスター発表</title>
+      <link>https://momongaclub.github.io/posts/yans_2018/</link>
+      <pubDate>Mon, 06 Aug 2018 22:20:08 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/yans_2018/</guid>
+      <description></description>
     </item>
     
   </channel>
