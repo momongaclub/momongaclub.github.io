@@ -6,9 +6,73 @@
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jul 2020 10:03:42 +0900</lastBuildDate>
     
 	<atom:link href="https://momongaclub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>tag1</title>
+      <link>https://momongaclub.github.io/tags/tag1/</link>
+      <pubDate>Sun, 05 Jul 2020 10:03:42 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/tags/tag1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tag2</title>
+      <link>https://momongaclub.github.io/tags/tag2/</link>
+      <pubDate>Sun, 05 Jul 2020 10:03:42 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/tags/tag2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>all</title>
+      <link>https://momongaclub.github.io/tags/all/</link>
+      <pubDate>Wed, 10 Jun 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/tags/all/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portfolio</title>
+      <link>https://momongaclub.github.io/tags/portfolio/</link>
+      <pubDate>Wed, 10 Jun 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://momongaclub.github.io/tags/programming/</link>
+      <pubDate>Wed, 10 Jun 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>job</title>
+      <link>https://momongaclub.github.io/tags/job/</link>
+      <pubDate>Sat, 06 Jun 2020 22:51:48 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/tags/job/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>award</title>
+      <link>https://momongaclub.github.io/tags/award/</link>
+      <pubDate>Sat, 06 Jun 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/tags/award/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

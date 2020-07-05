@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://momongaclub.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>portfolio on My New Hugo Site</title>
+    <link>https://momongaclub.github.io/tags/portfolio/</link>
+    <description>Recent content in portfolio on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jul 2020 10:03:42 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 22:28:27 +0900</lastBuildDate>
     
-	<atom:link href="https://momongaclub.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://momongaclub.github.io/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test</title>
-      <link>https://momongaclub.github.io/posts/test/</link>
-      <pubDate>Sun, 05 Jul 2020 10:03:42 +0900</pubDate>
-      
-      <guid>https://momongaclub.github.io/posts/test/</guid>
-      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>作品：block_businnes_account</title>
@@ -35,15 +26,6 @@
       <pubDate>Wed, 10 Jun 2020 22:28:27 +0900</pubDate>
       
       <guid>https://momongaclub.github.io/posts/tefutefu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kj Planning 技術顧問</title>
-      <link>https://momongaclub.github.io/posts/kj-planning/</link>
-      <pubDate>Sat, 06 Jun 2020 22:51:48 +0900</pubDate>
-      
-      <guid>https://momongaclub.github.io/posts/kj-planning/</guid>
       <description></description>
     </item>
     
