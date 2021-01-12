@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>all on My New Hugo Site</title>
+    <title>all on momongaclub</title>
     <link>https://momongaclub.github.io/tags/all/</link>
-    <description>Recent content in all on My New Hugo Site</description>
+    <description>Recent content in all on momongaclub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 01 Jul 2020 22:28:27 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2020 22:28:27 +0900</lastBuildDate><atom:link href="https://momongaclub.github.io/tags/all/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DBWS2020</title>
+      <link>https://momongaclub.github.io/posts/dbws2020/</link>
+      <pubDate>Wed, 01 Jul 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/dbws2020/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://momongaclub.github.io/tags/all/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>WISS2021</title>
+      <link>https://momongaclub.github.io/posts/wiss2021/</link>
+      <pubDate>Wed, 01 Jul 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/wiss2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>研究テーマ：ディープでトップなラップロボットのデベロップ</title>

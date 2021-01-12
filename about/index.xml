@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on My New Hugo Site</title>
+    <title>Abouts on momongaclub</title>
     <link>https://momongaclub.github.io/about/</link>
-    <description>Recent content in Abouts on My New Hugo Site</description>
+    <description>Recent content in Abouts on momongaclub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Sun, 05 Jul 2020 10:20:12 +0900</lastBuildDate>
-    
-	<atom:link href="https://momongaclub.github.io/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 05 Jul 2020 10:20:12 +0900</lastBuildDate><atom:link href="https://momongaclub.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Me</title>
       <link>https://momongaclub.github.io/about/me/</link>
