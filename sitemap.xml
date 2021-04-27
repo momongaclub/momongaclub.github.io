@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://momongaclub.github.io/about/</loc>
-    <lastmod>2020-07-05T10:20:12+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://momongaclub.github.io/about/me/</loc>
-    <lastmod>2020-07-05T10:20:12+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://momongaclub.github.io/</loc>
-    <lastmod>2020-07-05T10:20:12+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://momongaclub.github.io/tags/all/</loc>
     <lastmod>2020-06-06T22:52:28+09:00</lastmod>
   </url>
@@ -38,13 +23,8 @@
   </url>
   
   <url>
-    <loc>https://momongaclub.github.io/posts/dbws2020/</loc>
-    <lastmod>2020-06-06T22:28:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://momongaclub.github.io/tags/portfolio/</loc>
-    <lastmod>2020-06-06T22:52:28+09:00</lastmod>
+    <loc>https://momongaclub.github.io/</loc>
+    <lastmod>2020-07-05T10:20:12+09:00</lastmod>
   </url>
   
   <url>
@@ -63,8 +43,48 @@
   </url>
   
   <url>
+    <loc>https://momongaclub.github.io/posts/ir_readings/</loc>
+    <lastmod>2020-03-15T22:28:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://momongaclub.github.io/posts/me/</loc>
+    <lastmod>2020-03-15T22:28:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://momongaclub.github.io/posts/deim_2021/</loc>
+    <lastmod>2020-06-06T22:28:27+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://momongaclub.github.io/posts/wiss2020/</loc>
     <lastmod>2020-06-06T22:28:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://momongaclub.github.io/posts/skill/</loc>
+    <lastmod>2020-06-06T22:28:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://momongaclub.github.io/posts/dbws2020/</loc>
+    <lastmod>2020-06-06T22:28:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://momongaclub.github.io/about/</loc>
+    <lastmod>2020-07-05T10:20:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://momongaclub.github.io/about/me/</loc>
+    <lastmod>2020-07-05T10:20:12+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://momongaclub.github.io/tags/portfolio/</loc>
+    <lastmod>2020-06-06T22:52:28+09:00</lastmod>
   </url>
   
   <url>
@@ -73,12 +93,12 @@
   </url>
   
   <url>
-    <loc>https://momongaclub.github.io/posts/rhyme_maker/</loc>
+    <loc>https://momongaclub.github.io/posts/bba/</loc>
     <lastmod>2020-06-06T22:28:27+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://momongaclub.github.io/posts/bba/</loc>
+    <loc>https://momongaclub.github.io/posts/rhyme_maker/</loc>
     <lastmod>2020-06-06T22:28:27+09:00</lastmod>
   </url>
   

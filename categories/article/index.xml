@@ -6,22 +6,58 @@
     <description>Recent content in article on momongaclub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Wed, 01 Jul 2020 22:28:27 +0900</lastBuildDate><atom:link href="https://momongaclub.github.io/categories/article/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 22:28:27 +0900</lastBuildDate><atom:link href="https://momongaclub.github.io/categories/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>DBWS2020</title>
-      <link>https://momongaclub.github.io/posts/dbws2020/</link>
-      <pubDate>Wed, 01 Jul 2020 22:28:27 +0900</pubDate>
+      <title>記事：IRreadings</title>
+      <link>https://momongaclub.github.io/posts/ir_readings/</link>
+      <pubDate>Mon, 01 Mar 2021 22:28:27 +0900</pubDate>
       
-      <guid>https://momongaclub.github.io/posts/dbws2020/</guid>
+      <guid>https://momongaclub.github.io/posts/ir_readings/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>WISS2020</title>
+      <title>記事：自己紹介的な</title>
+      <link>https://momongaclub.github.io/posts/me/</link>
+      <pubDate>Mon, 01 Mar 2021 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/me/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>賞：DEIM2021 最注目研究賞</title>
+      <link>https://momongaclub.github.io/posts/deim_2021/</link>
+      <pubDate>Mon, 01 Mar 2021 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/deim_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>賞：WISS2020 萌芽発表賞</title>
       <link>https://momongaclub.github.io/posts/wiss2020/</link>
-      <pubDate>Wed, 01 Jul 2020 22:28:27 +0900</pubDate>
+      <pubDate>Tue, 01 Dec 2020 22:28:27 +0900</pubDate>
       
       <guid>https://momongaclub.github.io/posts/wiss2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>テクニカルスキルリスト</title>
+      <link>https://momongaclub.github.io/posts/skill/</link>
+      <pubDate>Sat, 01 Aug 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/skill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>賞：DBWS2020 最優秀学生プレゼンテーション賞</title>
+      <link>https://momongaclub.github.io/posts/dbws2020/</link>
+      <pubDate>Sat, 01 Aug 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/dbws2020/</guid>
       <description></description>
     </item>
     
@@ -35,15 +71,6 @@
     </item>
     
     <item>
-      <title>rhyme_marker</title>
-      <link>https://momongaclub.github.io/posts/rhyme_maker/</link>
-      <pubDate>Wed, 10 Jun 2020 22:28:27 +0900</pubDate>
-      
-      <guid>https://momongaclub.github.io/posts/rhyme_maker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>作品：block_businnes_account</title>
       <link>https://momongaclub.github.io/posts/bba/</link>
       <pubDate>Wed, 10 Jun 2020 22:28:27 +0900</pubDate>
@@ -53,7 +80,16 @@
     </item>
     
     <item>
-      <title>第39回こうべユース賞 文化部門受賞</title>
+      <title>作品：rhyme_marker</title>
+      <link>https://momongaclub.github.io/posts/rhyme_maker/</link>
+      <pubDate>Wed, 10 Jun 2020 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/rhyme_maker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>賞：第39回こうべユース賞 文化部門受賞</title>
       <link>https://momongaclub.github.io/posts/kobe-us/</link>
       <pubDate>Sat, 06 Jun 2020 22:28:27 +0900</pubDate>
       
@@ -62,7 +98,7 @@
     </item>
     
     <item>
-      <title>Samuraicoding_2019 個人優勝</title>
+      <title>賞：Samuraicoding_2019 個人優勝</title>
       <link>https://momongaclub.github.io/posts/samuraicoding_2019/</link>
       <pubDate>Wed, 06 Mar 2019 22:52:28 +0900</pubDate>
       
