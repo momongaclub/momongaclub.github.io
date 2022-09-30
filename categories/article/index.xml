@@ -8,7 +8,16 @@
     <language>jp</language>
     <lastBuildDate>Mon, 01 Mar 2021 22:28:27 +0900</lastBuildDate><atom:link href="https://momongaclub.github.io/categories/article/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>記事：IRreadings</title>
+      <title>テスト</title>
+      <link>https://momongaclub.github.io/posts/test/</link>
+      <pubDate>Mon, 01 Mar 2021 22:28:27 +0900</pubDate>
+      
+      <guid>https://momongaclub.github.io/posts/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>記事：テストIRreadings</title>
       <link>https://momongaclub.github.io/posts/ir_readings/</link>
       <pubDate>Mon, 01 Mar 2021 22:28:27 +0900</pubDate>
       
@@ -44,7 +53,7 @@
     </item>
     
     <item>
-      <title>研究テーマ：ディープでトップなラップロボットのデベロップ</title>
+      <title>ラップバトルBOT</title>
       <link>https://momongaclub.github.io/posts/tefutefu/</link>
       <pubDate>Wed, 01 Jul 2020 22:28:27 +0900</pubDate>
       
